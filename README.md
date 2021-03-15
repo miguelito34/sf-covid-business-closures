@@ -1,6 +1,6 @@
 # SF COVID Business Closures
 
-An brief analysis of business closures in San Francisco following the outset of the COVID-19 pandemic.
+A brief analysis of business closures in San Francisco following the outset of the COVID-19 pandemic.
 
 ## Setup
 
